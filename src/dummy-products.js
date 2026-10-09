@@ -93,7 +93,7 @@ export const DUMMY_PRODUCTS = [
     title: "Aquaculture",
     price: 68000,
     description:
-      'Aquaculture is one of the fastest growing sectors in the world, accounting for 50% of the worlds total fish production. Experience a career takes you from working indoors and monitoring fingerlings to operating technology beside a peaceful body of water.',
+      'Aquaculturee is one of the fastest growing sectors in the world, accounting for 50% of the worlds total fish production. Experience a career takes you from working indoors and monitoring fingerlings to operating technology beside a peaceful body of water.',
   },
   {
     id: "p2",
